@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="abtus">https://andela.com/alc</string>
+    <string name="abtalc">ABOUT ALC</string>
+    <string name="abt">About ALC</string>
+    <string name="myprf">MY PROFILE</string>
+    <string name="prf">My Profile</string>
+    <string name="mypf_nm">Adeola Adeleke</string>
+    <string name="slkusr">\@lekecoder</string>
+</resources>
